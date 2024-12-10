@@ -1,6 +1,6 @@
 package Ejercicio2.Classes;
 
-public class Persona {
+public class Peapol {
     private String name;
     private String surname;
     private int  age;
@@ -17,7 +17,7 @@ public class Persona {
         return age;
     }
 
-    public Persona(String name, int age, String surname) {
+    public Peapol(String name, int age, String surname) {
         this.name = name;
         this.age = age;
         this.surname = surname;
